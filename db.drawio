@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T16:06:24.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="aZyCI_17AI4K2PQ2Io5V" version="21.0.8" type="device"><diagram name="Page-1" id="OwvM6_rAIq4jk0VpodGS">dZHBDoMgDIafhjvKTHZ3brvs5GFnIp2QoDWIke3ppwHmiNuJ8vX/KW0JKzt3MXyQNxSgSU6FI+xE8jyjBV2OlTw9KQ6ZB61RIog2UKsXRGegkxIwJkKLqK0aUthg30NjE8aNwTmVPVCnVQfewg7UDdd7elfCSk+Psa2VX0G1MlbOaMh0PIoDGCUXOH8hVhFWGkTro86VoNfhxbl43/lP9vMxA739YViC7e3lkmyIVW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-21T16:08:04.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QdYZhbQY7jFhISo70mPT" version="21.3.2" type="github">
+  <diagram name="Page-1" id="OwvM6_rAIq4jk0VpodGS">
+    <mxGraphModel dx="1313" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KkP1DPNossI2hUXs8QKi-1" value="Inboxify database Design" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#A50040;fillColor=#d80073;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
